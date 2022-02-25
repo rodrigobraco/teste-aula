@@ -18,3 +18,6 @@ def soma_matriz(a,b):
     col_a = len(a)
 00
 00
+00
+00
+00
